@@ -7,4 +7,4 @@
 - 💬 Ask me about big data stuff
 - 📫 How to reach me: ...[Gmail] ananths1006@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love Java but I work in Python
+- ⚡ Fun fact: ... I hate python
